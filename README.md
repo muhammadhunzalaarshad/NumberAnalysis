@@ -46,7 +46,7 @@ This repository contains a Python script that performs number analysis, includin
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/NumberAnalysis.git
+   git clone https://github.com/muhammadhunzalaarshad/NumberAnalysis.git
    ```
 2. Navigate to the repository directory:
    ```bash
